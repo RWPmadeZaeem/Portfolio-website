@@ -1,10 +1,10 @@
 export default [
     {
-        title: 'Blog Website',
+        title: 'Bloggr',
         imgUrl: '/assets/luca-bravo-XJXWbfSo2f0-unsplash.jpg',
         stack: ['HTML', 'CSS', 'React', 'Appwrite'],
 
-        link: 'https://github.com/RWPmadeZaeem/Blog-website'
+        link: 'https://bloggr-1.vercel.app'
 
     },
     {
@@ -16,7 +16,7 @@ export default [
 
     },
     {
-        title: 'Blog Website',
+        title: 'Dashboard',
         imgUrl: '/assets/luca-bravo-XJXWbfSo2f0-unsplash.jpg',
         stack: ['HTML', 'CSS', 'React', 'Appwrite'],
 

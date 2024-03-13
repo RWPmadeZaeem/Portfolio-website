@@ -16,7 +16,7 @@ function TimelineItem({ year, title, duration, details }) {
 
         {/* Title and details */}
         <div className="flex flex-col">
-          <h3 className="text-lg font-semibold text-gray-900 dark:text-stone-300 mb-1">
+          <h3 className="text-lg font-semibold text-gray-900 dark:text-orange-300 mb-1">
             <span className="align-middle">{title}</span>
           </h3>
 
