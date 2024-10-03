@@ -8,15 +8,15 @@ export default [
 
     },
     {
-        title: 'ChatterBox',
+        title: 'OpinionMap',
         imgUrl: '/assets/luca-bravo-XJXWbfSo2f0-unsplash.jpg',
-        stack: ['HTML', 'CSS', 'React', 'Appwrite'],
+        stack: ['HTML', 'CSS', 'NextJs', 'Redis','Typescript'],
 
-        link: 'https://github.com/RWPmadeZaeem/Blog-website'
+        link: 'https://github.com/RWPmadeZaeem/OpinionMap'
 
     },
     {
-        title: 'Dashboard',
+        title: 'Web Scraper',
         imgUrl: '/assets/luca-bravo-XJXWbfSo2f0-unsplash.jpg',
         stack: ['HTML', 'CSS', 'React', 'Appwrite'],
 
